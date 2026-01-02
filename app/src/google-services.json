@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "151494289414",
+    "firebase_url": "https://e-ghatak-default-rtdb.firebaseio.com",
+    "project_id": "e-ghatak",
+    "storage_bucket": "e-ghatak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151494289414:android:833323572915af8dc33b87",
+        "android_client_info": {
+          "package_name": "com.samin.e_ghatak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151494289414-nch5kncpqm0fqo5dj2ai6o0b7iv2pnd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ciZCLgrkmzEtWSgNbOKSPVA-VPTOS78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151494289414-nch5kncpqm0fqo5dj2ai6o0b7iv2pnd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
