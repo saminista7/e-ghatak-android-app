@@ -41,7 +41,7 @@ This approach emphasizes engagement and deliberate selection rather than rapid, 
 - **Language:** Kotlin
 - **Platform:** Android (Android Studio)
 - **Backend & Database:** Firebase (Authentication, Realtime Database / Firestore)
-- **Storage:** Firebase Storage for profile images
+- **Storage:** Firebase Storage for profile images and user data
 
 ---
 
